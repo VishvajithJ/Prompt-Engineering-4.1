@@ -1,10 +1,7 @@
 # Prompt-Engineering-4.1
 # EXP 4 Scenario-Based Report Development Utilizing Diverse Prompting Techniques- Lab Scenario: Smart Health Assistant System
 
-```
-Name    : AADITHYA R
-Reg. No : 212223240001
-```
+
 
 # Description: 
 You are part of a development team building MediGuide, an AI-powered Smart Health Assistant designed to support elderly patients with chronic conditions like diabetes, hypertension, and arthritis.
